@@ -1,6 +1,26 @@
-# animufo
+# Animufo App
 
-ufo in jogja
+:: ENGLISH ::
+
+- Build simple animation with slide movement (right - left display)
+- Based Flutter IDE Android Studio.
+- You guys can checkout in the demo section below this readme.md
+- If something wrong with your IDE, try to upadate your flutter pluggin/SDK/IDE to latest version.
+- In the running app, tap/click "Panggil UFO" for calling the UFO
+- thanks for appreciate my simple app, bella ciao!
+
+:: INDONESIA ::
+
+- Membangun animasi simpel dengan gerakan meluncur dari kanan ke kiri display
+- Berbasis flutter dengan IDE Android Studio.
+- Kalian bisa cek hasilnya di bagian demo bawa ini.
+- Jika terjadi sesuatu, pastikan dan cobalah untuk mengperbarui flutter pluggin/SDK/IDE nya ke versi terbaru
+- Dalam aplikasi, tap/klik "Panggil UFO" untuk memanggil UFOnya
+- Terimakasih sudah mengapresiasi aplikasi simple ini, Dah!
+
+## DEMO
+
+![UFO Animation Demo](demo/ufo.gif)
 
 ## Getting Started
 
